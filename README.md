@@ -73,7 +73,7 @@ This report summarizes:
 
 **Open Report**
 
-[Online_Retail_Report.docx](Online_Retail_Report.docx)
+[📑 Open Project Report](Online_Retail/Online_Retail_Report.docx)
 
 ---
 
