@@ -158,6 +158,3 @@ This report summarizes:
 # Author
 
 **Benjamin Esther**
-
-
-Passionate about transforming raw data into meaningful insights that support data-driven decision-making.
