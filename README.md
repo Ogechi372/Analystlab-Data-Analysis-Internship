@@ -78,4 +78,3 @@ This project explores the Netflix Titles dataset to identify trends in content t
 
 ## Author
 **Benjamin Esther**
-Passionate about transforming raw data into meaningful insights that support data-driven decision-making.
