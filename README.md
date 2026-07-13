@@ -31,6 +31,8 @@ This project analyzes an online retail sales dataset to uncover customer purchas
 **Jupyter Notebook** — contains Data Understanding, Data Cleaning, Data Cleaning Summary, EDA, Visualizations, Business Insights, Recommendations, and Conclusion.
 📒 [Open Jupyter Notebook](Project1_Online_Retail/online_retail.ipynb)
 
+
+
 **Cleaned Dataset (CSV)** — `online_retail_cleaned.csv`, hosted in the shared datasets folder below (too large for GitHub's web uploader).
 📄 [Open Datasets Folder](https://drive.google.com/drive/folders/1HwQg6MhZEwbYrZZirKI_ZeuoZng9vbik)
 
@@ -59,7 +61,7 @@ This project explores the Netflix Titles dataset to identify trends in content t
 📄 [Open Datasets Folder](https://drive.google.com/drive/folders/1HwQg6MhZEwbYrZZirKI_ZeuoZng9vbik)
 
 **One-Page Project Report** — summarizes the project overview, cleaning challenges, key EDA findings, business insights, recommendations, and conclusion.
-📑 [Open Project Report](Project2_Netflix_Titles/Netflix_Titles_Project_Report__1_.docx)
+📑 [Open Project Report](Project2_Netflix_Titles/Netflix_Titles_Project_Report(1).docx)
 
 ---
 
