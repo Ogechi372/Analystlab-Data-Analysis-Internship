@@ -56,8 +56,7 @@ The notebook contains:
 This is the cleaned version of the raw dataset after handling missing values, removing duplicate records, and correcting data types.
 
  **Download Cleaned Dataset**
-
-[online_retail_cleaned.csv](online_retail_cleaned.csv)
+[📄 Download Cleaned Dataset](Online_Retail/online_retail_cleaned.csv)
 
 ---
 
