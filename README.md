@@ -135,8 +135,7 @@ This report summarizes:
 - Conclusion
 
 **Open Report**
-
-[Netflix Titles Project Report](Netflix_Titles_Project_Report.docx)
+[📑 Open Project Report](Netflix_Titles/Netflix_Titles_Project_Report.docx)
 
 ---
 
