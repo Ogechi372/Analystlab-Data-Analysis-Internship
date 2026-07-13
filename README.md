@@ -47,7 +47,7 @@ The notebook contains:
 
 **Open Notebook**
 
-[Online Retail Analysis Notebook](online_retail.ipynb)
+[📒 Open Jupyter Notebook](Online_Retail/online_retail.ipynb)
 
 ---
 
