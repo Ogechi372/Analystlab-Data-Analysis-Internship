@@ -109,7 +109,7 @@ The notebook contains:
 
 **Open Notebook**
 
-[Netflix Titles Analysis Notebook](netflix_titles.ipynb)
+[📒 Open Jupyter Notebook](Netflix_Titles/netflix_titles.ipynb)
 
 ---
 
